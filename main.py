@@ -1,7 +1,7 @@
 """
 Created by: Liya Getachew
 Created on: February 12 2025
-This 
+This makes the LED on the Pico blink on and off. 
 """
 
 # Example for Pico. Blinks the built-in LED.
